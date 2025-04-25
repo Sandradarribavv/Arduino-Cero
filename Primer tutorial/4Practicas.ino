@@ -1,6 +1,4 @@
-### Cuarto circuito 
-
-[Uso de subrutinas](https://www.tinkercad.com/things/gyDMBD43YHh-4-uso-de-subrutinas)
+Cuarto circuito 
 
 int tiempo=100;
 int pin;
@@ -40,4 +38,4 @@ void secuencia_dos()
    }
 }
 
-// Es un uso de subrutinas.
+// Es un uso de subrutinas

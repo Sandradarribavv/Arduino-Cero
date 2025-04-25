@@ -1,6 +1,4 @@
-### Tercer circuito
-
-[Uso en Bucle de For](https://www.tinkercad.com/things/h74CAIRAUIL-3-uso-en-bucle-for)
+Tercer circuito
 
 int tiempo=200; //La variable tiempo la asignamos el valor 200
 int pin; //declaramos la variable pin,sin asignarle valor momentaneamente
@@ -24,4 +22,4 @@ for (pin=8; pin<=12; pin++)
   }
 }
 
-// Es el uso en bucle de For.
+// Es el uso en bucle de For

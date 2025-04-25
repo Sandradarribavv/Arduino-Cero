@@ -1,5 +1,4 @@
-### Segundo circuito cuarto vídeo
-
+Segundo circuito cuarto vídeo
 
 int tiempo = 1000;
   
@@ -34,7 +33,7 @@ void ApagarTodos (){
 // Son sus variables y sus funciones
 
 
-### Segundo circuito quinto vídeo
+Segundo circuito quinto vídeo
 
 void setup()
 {
@@ -65,7 +64,7 @@ void ApagarTodos (int tiempo){
 // Argumentos
 
 
-### Segundo circuito sexto vídeo
+Segundo circuito sexto vídeo
 
 void setup()
 {
@@ -98,9 +97,9 @@ void ApagarTodos (int tiempo){
     delay(tiempo);
 }
 
-// Condicionales.
+// Condicionales
 
-### Segundo circuito septimo vídeo
+Segundo circuito septimo vídeo
 
 char valor; 
 void setup()
@@ -146,5 +145,5 @@ void ApagarTodos (int tiempo){
     delay(tiempo);
 }
 
-// Monitor serial.
+// Monitor serial
 

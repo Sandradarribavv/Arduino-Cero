@@ -1,6 +1,4 @@
-### Primer circuito
-
-[Control de salida](https://www.tinkercad.com/things/7egcNeZxlNY-1-control-de-salida)
+Primer circuito
 
 // C++ code
 //
@@ -17,5 +15,5 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
-// Es un control de salida.
+// Es un control de salida
 

@@ -1,8 +1,8 @@
-### Primer vídeo
+Primer vídeo
 
-// Habla de los elementos básicos que se van ha utilizar en el tutorial.
+// Habla de los elementos básicos que se van ha utilizar en el tutorial
 
-### Primer circuito segundo vídeo
+Primer circuito segundo vídeo
 
 void setup()
 {
@@ -28,7 +28,7 @@ void loop()
   delay(500); // Wait for 1000 millisecond(s)
 }
 
-### Primer circuito segundo y tercer vídeo
+Primer circuito segundo y tercer vídeo
 
 void setup()
 {
@@ -53,5 +53,5 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
-// Es como se enciende y se apaga.
+// Es como se enciende y se apaga
 

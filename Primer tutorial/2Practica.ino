@@ -1,6 +1,4 @@
-### Segundo circuito
-
-[Uso de nombres o variables](https://www.tinkercad.com/things/f0jYRHYcs2I-2-uso-de-nombres-o-variables)
+Segundo circuito
 
 int LedRojo=12;
 int LedAzul=11;
@@ -30,4 +28,4 @@ void loop()
            
 }
 
-// Es un uso de nombres o variables.
+// Es un uso de nombres o variables

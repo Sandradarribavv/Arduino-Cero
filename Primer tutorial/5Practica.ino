@@ -1,6 +1,4 @@
-### Quinto circuito
-
-[Salidas analógicas PWM](https://www.tinkercad.com/things/fBKTipR9PUU-5-salidas-analogicas-pwm-)
+Quinto circuito
 
 void setup()
 {

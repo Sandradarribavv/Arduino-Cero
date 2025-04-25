@@ -1,4 +1,4 @@
-###Tercer circuito octavo vídeo
+Tercer circuito octavo vídeo
 
 char dato;
 void setup()
@@ -116,7 +116,7 @@ void SecuenciaDosenDos(int tiempo){
   
 }
 
-// Actividad practica con guía y monitor serial.
+// Actividad practica con guía y monitor serial
 
 
 ### Tercer circuito noveno vídeo
@@ -240,7 +240,7 @@ void SecuenciaDosenDos(int tiempo){
 // Ciclo For
 
 
-### Tercer circuito decimo vídeo
+Tercer circuito decimo vídeo
 
 char dato;
 float tiempo;
@@ -375,7 +375,7 @@ void SecuenciaDosenDos(int tiempo){
 // Sensor de distancia HC SR 04
 
 
-### Tercer circuito vídeo onceavo 
+Tercer circuito vídeo onceavo 
 
 // C++ code{}
 //
