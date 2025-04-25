@@ -1,0 +1,23 @@
+### Primer circuito
+
+[Control de salida](https://www.tinkercad.com/things/7egcNeZxlNY-1-control-de-salida)
+
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+
+// Era un control de salida.
+
+
+
