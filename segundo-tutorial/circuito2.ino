@@ -30,7 +30,7 @@ void ApagarTodos (){
  
 }
 
-// Son sus variables y sus funciones
+// Son sus variables y sus funciones.
 
 
 Segundo circuito quinto vídeo
