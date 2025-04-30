@@ -1,6 +1,6 @@
 Primer vídeo
 
-// Habla de los elementos básicos que se van ha utilizar en el tutorial
+// Habla de los elementos basicos que se van ha utilizar en el tutorial
 
 Primer circuito segundo vídeo
 
